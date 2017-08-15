@@ -1,3 +1,3 @@
-# Exercise_of_Programming
-## Introduction
-This program saves directory data from standard input in CSV format. And you can manipulate them. 
+# 名簿管理プログラム
+## 概要
+標準入力から名簿データを登録したりできるプログラムです。
